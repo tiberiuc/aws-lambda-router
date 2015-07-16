@@ -1,0 +1,15 @@
+{
+  "name": "aws_router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha",
+    "jslint" : "jslint --predef describe --predef it --predef before ./**/*.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
